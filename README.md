@@ -1,4 +1,4 @@
-# Hi, I'm Neo
+# Hi, I'm Neo Dela Torre
 
 ### Full Stack Developer | React | Next.js | NestJS | TypeScript
 
