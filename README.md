@@ -100,13 +100,6 @@ SaaS-style ecommerce website builder with:
 
 **Tech:** Next.js • TypeScript • PostgreSQL
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhatwoo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhatwoo&layout=compact&theme=tokyonight)
 
 ---
 
