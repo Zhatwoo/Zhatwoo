@@ -61,13 +61,6 @@ SaaS ecommerce platform with product management, inventory, orders, and publishi
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhatwoo\&show_icons=true\&hide_border=true\&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhatwoo\&layout=compact\&hide_border=true\&bg_color=00000000)
-
----
 
 ## Connect
 
