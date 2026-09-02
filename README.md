@@ -57,31 +57,6 @@ I build modern web applications, SaaS platforms, business systems, and cross-pla
 
 ---
 
-## Featured Projects
-
-### Pawnshop Management System
-
-Full-stack business management platform for branch operations, inventory, pawn transactions, reporting, authentication, and financial workflows.
-
-`Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Supabase`
-
----
-
-### QMA — Quality Management Application
-
-QA management platform for issue tracking, developer assignments, project workflows, multi-company support, and attachments.
-
-`Next.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Supabase`
-
----
-
-### Ecommerce Website Builder
-
-SaaS-style ecommerce platform with product management, inventory, orders, analytics, team collaboration, and publishing tools.
-
-`Next.js` · `TypeScript` · `PostgreSQL`
-
----
 
 ## GitHub Stats
 
@@ -96,11 +71,6 @@ SaaS-style ecommerce platform with product management, inventory, orders, analyt
 
 ---
 
-## Current Focus
-
-`Full Stack Development` · `SaaS` · `Mobile Development` · `Cloud Deployment`
-
----
 
 ## Connect
 
