@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | React | Next.js | NestJS | TypeScript
 
-I build modern web applications, SaaS platforms, and business systems.
+I build modern web applications, SaaS platforms, business systems, and cross-platform mobile apps.
 
 ---
 
@@ -11,7 +11,7 @@ I build modern web applications, SaaS platforms, and business systems.
 * Full Stack / Software Developer
 * BS Computer Engineering Graduate
 * **Professional Experience: <!-- EXPERIENCE_START -->1+ Year<!-- EXPERIENCE_END -->**
-* Frontend, Backend, REST APIs & Databases
+* Frontend, Backend, REST APIs, Databases & Mobile Development
 * Focused on scalable applications and cloud deployment
 
 ---
@@ -31,6 +31,13 @@ I build modern web applications, SaaS platforms, and business systems.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express)
+
+### Mobile / Cross-Platform
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
 
 ### Database & Cloud
 
@@ -79,28 +86,19 @@ SaaS-style ecommerce platform with product management, inventory, orders, analyt
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhatwoo&theme=github_dark"
-    alt="GitHub Profile Details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhatwoo&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhatwoo&theme=github_dark"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhatwoo&theme=github_dark"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhatwoo&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhatwoo&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## Current Focus
 
-`Full Stack Development` · `SaaS` · `Backend Architecture` · `Cloud Deployment`
+`Full Stack Development` · `SaaS` · `Mobile Development` · `Cloud Deployment`
 
 ---
 
@@ -108,4 +106,4 @@ SaaS-style ecommerce platform with product management, inventory, orders, analyt
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zhatwoo-181717?style=flat-square\&logo=github)](https://github.com/Zhatwoo)
 
-Open to opportunities in **Full Stack Development, SaaS, and Web Applications**.
+Open to opportunities in **Full Stack Development, Mobile Development, SaaS, and Web Applications**.
