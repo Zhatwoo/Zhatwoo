@@ -1,116 +1,174 @@
-# Hi, I'm Neo 👋
+<div align="center">
 
-### Full Stack Developer | React | Next.js | NestJS | TypeScript
+# Neo Dela Torre
 
-I build modern web applications, SaaS platforms, and business management systems.
+### Full Stack Developer
 
-Currently focused on building scalable full-stack applications using modern JavaScript technologies.
+Building scalable web applications, SaaS platforms, and business systems.
 
----
+`React` · `Next.js` · `TypeScript` · `NestJS` · `PostgreSQL`
 
-## 🚀 About Me
+<br/>
 
-- 💻 Full Stack / Software Developer
-- 🎓 BS Computer Engineering Graduate
-- 🏗️ Building SaaS and business management applications
-- 🌱 Currently improving my skills in cloud deployment and system architecture
-- ⚡ Experienced with frontend, backend, databases, authentication, and REST APIs
+<a href="https://github.com/Zhatwoo">
+  <img src="https://img.shields.io/badge/GitHub-Zhatwoo-181717?style=flat-square&logo=github" />
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-### Database & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## About
 
-### 🏪 Pawnshop Management System
-Full-stack business management platform with:
+```ts
+const neo = {
+  role: "Full Stack Developer",
+  focus: [
+    "SaaS Applications",
+    "Business Systems",
+    "Frontend Architecture",
+    "Backend APIs"
+  ],
+  currentlyBuilding: "Modern full-stack applications",
+  coffee: true
+};
+```
 
-- Role-based access control
-- Branch management
-- Inventory management
-- Pawn transactions
-- Financial reporting
-- Device-restricted authentication
-- OTP verification
-- Activity logging
-
-**Tech:** Next.js • NestJS • PostgreSQL • Prisma • Supabase
-
----
-
-### 🧪 QMA — Quality Management Application
-
-QA management platform designed to replace spreadsheet-based QA workflows.
-
-Features:
-
-- QA issue tracking
-- Developer assignment
-- Project management
-- Multiple companies
-- Role-based permissions
-- Screenshot/file attachments
-- QA status workflow
-
-**Tech:** Next.js • NestJS • PostgreSQL • Supabase
+I enjoy turning ideas into practical software — from clean user interfaces to APIs, databases, authentication systems, and production deployments.
 
 ---
 
-### 🛒 Ecommerce Website Builder
+## Stack
 
-SaaS-style ecommerce website builder with:
+**Frontend**
 
-- Visual editor
-- Product management
-- Inventory
-- Orders
-- Customer accounts
-- Analytics
-- Team collaboration
-- Publishing system
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
-**Tech:** Next.js • TypeScript • PostgreSQL
+**Backend**
 
+`Node.js` `NestJS` `Express.js` `REST API`
 
----
+**Database**
 
-## 🔥 Contribution Streak
+`PostgreSQL` `Supabase` `Firebase` `Prisma`
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zhatwoo&theme=tokyonight)
+**Tools & Cloud**
+
+`Git` `GitHub` `Vercel` `Google Cloud` `Cursor` `VS Code`
 
 ---
 
-## 📫 Let's Connect
+## Selected Work
 
-Open to opportunities involving:
+### Pawnshop Management System
 
-**Full Stack Development • Frontend Development • SaaS Development • Web Applications**
+Enterprise-style management platform for handling pawn transactions, inventory, branches, financial reports, users, and operational workflows.
+
+`Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Supabase`
+
+---
+
+### QMA
+
+Quality management application designed to replace spreadsheet-based QA workflows.
+
+Includes:
+
+* Issue tracking
+* Developer assignments
+* QA workflows
+* Project management
+* Multi-company support
+* Role-based access
+* Attachments and screenshots
+
+`Next.js` · `NestJS` · `PostgreSQL` · `Supabase`
+
+---
+
+### Ecommerce Platform
+
+Full-stack ecommerce and website-building platform focused on product management, inventory, orders, analytics, and customizable storefronts.
+
+`Next.js` · `TypeScript` · `PostgreSQL`
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zhatwoo&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhatwoo&layout=compact&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+## Mini Game
+
+### Guess the output
+
+What will this return?
+
+```javascript
+const developer = {
+  frontend: true,
+  backend: true,
+  coffee: 3
+};
+
+console.log(
+  developer.frontend &&
+  developer.backend &&
+  developer.coffee > 0
+    ? "???"
+    : "Bug"
+);
+```
+
+<details>
+<summary>Show answer</summary>
+
+```text
+Full Stack Developer ☕
+```
+
+Okay, technically JavaScript would return the value placed in the first branch — but you already know what I meant. 😄
+
+</details>
+
+---
+
+## Current Focus
+
+```text
+01. Building better SaaS products
+02. Improving backend architecture
+03. Designing cleaner interfaces
+04. Learning more cloud infrastructure
+05. Shipping production-ready software
+```
+
+---
+
+## Development Philosophy
+
+> Build simple interfaces on top of well-structured systems.
+
+I care about maintainable code, practical UX, scalable architecture, and software that solves real problems.
+
+---
+
+## Connect
+
+I'm open to opportunities involving:
+
+`Full Stack Development` · `Frontend Development` · `Backend Development` · `SaaS` · `Web Applications`
+
+<div align="center">
+
+### Build. Learn. Ship.
+
+</div>
