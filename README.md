@@ -23,6 +23,7 @@ I build modern web applications, SaaS platforms, and business systems.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 ### Backend
@@ -36,7 +37,16 @@ I build modern web applications, SaaS platforms, and business systems.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
@@ -44,26 +54,58 @@ I build modern web applications, SaaS platforms, and business systems.
 
 ### Pawnshop Management System
 
-Full-stack platform for branch operations, inventory, transactions, reporting, and secure authentication.
+Full-stack business management platform for branch operations, inventory, pawn transactions, reporting, authentication, and financial workflows.
 
-`Next.js` · `NestJS` · `PostgreSQL` · `Supabase`
+`Next.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Supabase`
 
-### QMA
+---
 
-QA management platform for issue tracking, developer assignments, and project workflows.
+### QMA — Quality Management Application
 
-`Next.js` · `NestJS` · `PostgreSQL`
+QA management platform for issue tracking, developer assignments, project workflows, multi-company support, and attachments.
+
+`Next.js` · `NestJS` · `TypeScript` · `PostgreSQL` · `Supabase`
+
+---
 
 ### Ecommerce Website Builder
 
-SaaS ecommerce platform with product management, inventory, orders, and publishing tools.
+SaaS-style ecommerce platform with product management, inventory, orders, analytics, team collaboration, and publishing tools.
 
 `Next.js` · `TypeScript` · `PostgreSQL`
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhatwoo&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhatwoo&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhatwoo&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Current Focus
+
+`Full Stack Development` · `SaaS` · `Backend Architecture` · `Cloud Deployment`
+
+---
+
 ## Connect
 
-![GitHub](https://img.shields.io/badge/GitHub-Zhatwoo-181717?style=flat-square\&logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-Zhatwoo-181717?style=flat-square\&logo=github)](https://github.com/Zhatwoo)
 
 Open to opportunities in **Full Stack Development, SaaS, and Web Applications**.
