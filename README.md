@@ -8,10 +8,11 @@ I build modern web applications, SaaS platforms, and business systems.
 
 ## About Me
 
-* 💻 Full Stack / Software Developer
-* 🎓 BS Computer Engineering Graduate
-* ⚙️ Frontend, Backend, APIs, Databases
-* ☁️ Focused on scalable applications and cloud deployment
+* Full Stack / Software Developer
+* BS Computer Engineering Graduate
+* **Professional Experience: <!-- EXPERIENCE_START -->1+ Year<!-- EXPERIENCE_END -->**
+* Frontend, Backend, REST APIs & Databases
+* Focused on scalable applications and cloud deployment
 
 ---
 
@@ -60,7 +61,6 @@ SaaS ecommerce platform with product management, inventory, orders, and publishi
 `Next.js` · `TypeScript` · `PostgreSQL`
 
 ---
-
 
 ## Connect
 
